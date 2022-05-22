@@ -7,6 +7,10 @@
 <h2 align="center">Some of my Knowledges</h2>
 
 <p align="center">
+  <!-- JavaScript -->
+  <img
+    src="https://img.shields.io/badge/JavaScript-%230A0A0A.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+  />
   <!-- HTML5 -->
   <img
     src="https://img.shields.io/badge/html5-%230A0A0A.svg?&style=for-the-badge&logo=html5&logoColor=E34F26"
@@ -15,74 +19,93 @@
   <img
     src="https://img.shields.io/badge/css3-%230A0A0A.svg?&style=for-the-badge&logo=css3&logoColor=1572B6"
   />
-  <!-- JavaScript -->
-  <img
-    src="https://img.shields.io/badge/JavaScript-%230A0A0A.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-  />
 </p>
 
 <p align="center">
+  <!-- React.js -->
+  <img
+    src="https://img.shields.io/badge/React.js-%2300D8FF.svg?&style=for-the-badge&logo=react&logoColor=white"
+  />
+    <!-- Next.js -->
+  <img
+    src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"
+  />
   <!-- Vue.js -->
   <img
-    src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue-dot-js&logoColor=white"
-  />
-  <!-- React -->
-  <img
-    src="https://img.shields.io/badge/React-%2300D8FF.svg?&style=for-the-badge&logo=react&logoColor=white"
-  />
-  <!-- Node.js -->
-  <img
-    src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node-dot-js&logoColor=white"
-  />
-  <!-- Express.js -->
-  <img
-    src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"
-  />
-  <!-- MongoDB -->
-  <img
-    src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"
-  />
-</p>
-
-<p align="center">
-  <!-- Next.js -->
-  <img
-    src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next-dot-js&logoColor=white"
+    src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"
   />
   <!-- Nuxt.js -->
   <img
-    src="https://img.shields.io/badge/Nuxt.js-%2341B883.svg?&style=for-the-badge&logo=nuxt-dot-js&logoColor=white"
+    src="https://img.shields.io/badge/Nuxt.js-%2341B883.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white"
   />
-  <!-- Material UI-->
-  <img
-    src="https://img.shields.io/badge/Material UI-%23447FC5.svg?&style=for-the-badge&logo=material-ui&logoColor=white"
-  />
+</p>
+
+<p align="center">
   <!-- Typescript-->
   <img
     src="https://img.shields.io/badge/Typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"
+  />
+  <!-- Prisma -->
+  <img 
+    src="https://img.shields.io/badge/Prisma-%23283141?style=for-the-badge&logo=Prisma&logoColor=white"
+  />
+  <!-- Figma -->
+  <img
+    src="https://img.shields.io/badge/Figma-%23A159FF.svg?&style=for-the-badge&logo=figma&logoColor=white"
   />
   <!-- Sass -->
   <img
     src="https://img.shields.io/badge/Sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"
   />
-  <!-- MySQL -->
-  <img
-    src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"
-  />
-  <!-- Vuetify-->
-  <img
-    src="https://img.shields.io/badge/Vuetify-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"
-  />
-  <!-- Vuetify-->
+  <!-- Contentful-->
   <img
     src="https://img.shields.io/badge/Contentful-%23F05A65.svg?&style=for-the-badge&logo=Contentful&logoColor=white"
   />
-  <!-- Bootstrap--><img
-    src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"
+  <!-- Three.js -->
+  <img
+    src="https://img.shields.io/badge/Three.js-%230A0A0A.svg?&style=for-the-badge&logo=three.js&logoColor=white"
   />
 </p>
 
 <p align="center">
+  <!-- Node.js -->
+  <img
+    src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
+  />
+  <!-- Chakra UI -->
+    <img
+    src="https://img.shields.io/badge/Chakra UI-%235EBCB3.svg?&style=for-the-badge&logo=chakraui&logoColor=white"
+  />
+  <!-- Material UI-->
+  <img
+    src="https://img.shields.io/badge/Material UI-%23447FC5.svg?&style=for-the-badge&logo=materialui&logoColor=white"
+  />
+</p>
+
+<p align="center">
+  <!-- Wordpress -->
+  <img
+    src="https://img.shields.io/badge/WordPress API-%2300749c.svg?&style=for-the-badge&logo=wordpress&logoColor=white"
+  />
+  <!-- Express.js -->
+  <img
+    src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"
+  />
+  <!-- MongoDB -->
+  <img
+    src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"
+  />
+  <!-- MySQL -->
+  <img
+    src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"
+  />
+</p>
+
+<p align="center">
+  <!-- Vercel -->
+  <img
+    src="https://img.shields.io/badge/Vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"
+  />
   <!-- Git -->
   <img
     src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"
@@ -90,18 +113,6 @@
   <!-- GitHub -->
   <img
     src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"
-  />
-  <!-- Heroku -->
-  <img
-    src="https://img.shields.io/badge/Heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"
-  />
-  <!-- Python -->
-  <img
-    src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"
-  />
-  <!-- Raspberry Pi-->
-  <img
-    src="https://img.shields.io/badge/Raspberry Pi-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white"
   />
 </p>
 
