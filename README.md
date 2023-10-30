@@ -128,9 +128,9 @@
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
-  <a target="_blank" href="https://hub.vittoretrivi.dev/">
+  <a target="_blank" href="https://vittoretrivi.dev">
     <img
-      src="https://img.shields.io/badge/hub.vittoretrivi.dev-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"
+      src="https://img.shields.io/badge/vittoretrivi.dev-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"
     />
   </a>
 </p>
