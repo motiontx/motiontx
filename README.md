@@ -64,6 +64,13 @@
   <img
     src="https://img.shields.io/badge/Typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"
   />
+</p>
+
+<p align="center">
+  <!-- Radix UI -->
+  <img
+    src="https://img.shields.io/badge/Radix UI-%231d2024.svg?&style=for-the-badge&logo=radixui&logoColor=white"
+  />
   <!-- Tailwind CSS -->
   <img
     src="https://img.shields.io/badge/Tailwind CSS-%2338bdf8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"
@@ -93,22 +100,22 @@
   />
   <!-- Material UI-->
   <img
-    src="https://img.shields.io/badge/Material UI-%23447FC5.svg?&style=for-the-badge&logo=mui&logoColor=white"
+    src="https://img.shields.io/badge/MUI-%23447FC5.svg?&style=for-the-badge&logo=mui&logoColor=white"
   />
 </p>
 
 <p align="center">
-  <!-- Node.js -->
-  <img
-    src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
-  />
   <!-- Prisma -->
   <img
     src="https://img.shields.io/badge/Prisma-%23283141?style=for-the-badge&logo=Prisma&logoColor=white"
   />
-  <!-- MongoDB -->
+  <!-- TanStack Query -->
   <img
-    src="https://img.shields.io/badge/MongoDB-%235C3629.svg?&style=for-the-badge&logo=mongodb&logoColor=white"
+    src="https://img.shields.io/badge/TanStack Query-%23ef4444.svg?&style=for-the-badge&logo=react query&logoColor=white"
+  />
+  <!-- Clerk -->
+  <img
+    src="https://img.shields.io/badge/Clerk-%236c47ff.svg?&style=for-the-badge&logo=clerk&logoColor=white"
   />
   <!-- Vercel -->
   <img
@@ -117,10 +124,6 @@
   <!-- Git -->
   <img
     src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"
-  />
-  <!-- GitHub -->
-  <img
-    src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"
   />
 </p>
 
