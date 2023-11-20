@@ -1,7 +1,7 @@
 <p align="center">
   <!-- https://redketchup.io/gif-converter -->
   <img
-    src="https://images.ctfassets.net/ysze5vg6m04h/4u13kzqs0vugufKp2xjdxY/b84ed5c45b344cef140bf33a66db392f/readme.gif"
+    src="https://github.com/motiontx/motiontx/assets/5198206/f516aecb-8023-41f7-aa86-f089acdd9cc0"
   />
 </p>
 
